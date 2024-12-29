@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 const Pizza = () => {
   return React.createElement("div", {}, [
     React.createElement("h1", {}, "Pepperoni Pizza"),
